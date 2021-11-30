@@ -116,7 +116,27 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #e44c65 !important;
+			color: #0c6eee !important;
+			border-bottom-color: transparent;
+		}
+
+		a.hover #Xbox {
+			color: #5ff025 !important;
+			border-bottom-color: transparent;
+		}
+
+		a:hover #Twitter {
+			color: #58b4ff !important;
+			border-bottom-color: transparent;
+		}
+
+		a:hover #GitHub {
+			color: #9116e4 !important;
+			border-bottom-color: transparent;
+		}
+
+		a:hover #Linkedin {
+			color: #256cf0 !important;
 			border-bottom-color: transparent;
 		}
 
