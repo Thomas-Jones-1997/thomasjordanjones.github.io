@@ -2211,7 +2211,7 @@ input, select, textarea {
 	}
 
 		header.major:after {
-			background: #e44c65;
+			background: #5480f1;
 			content: '';
 			display: inline-block;
 			height: 0.2em;
@@ -3197,11 +3197,15 @@ input, select, textarea {
 		}
 
 		.spotlight.style1 .content {
-			border-color: #e44c65;
+			border-color: #fdfa4e;
 		}
 
 		.spotlight.style2 .content {
 			border-color: #5480f1;
+		}
+
+		.spotlight.style3 .content {
+			border-color: #3baa08;
 		}
 
 		.spotlight.style3 .content {
@@ -3259,12 +3263,8 @@ input, select, textarea {
 	}
 
 		.wrapper.style2 {
-			background: #e44c65;
+			background: #5480f1;
 		}
-
-			.wrapper.style2 input[type="text"]:focus,
-			.wrapper.style2 input[type="password"]:focus,
-			.wrapper.style2 input[type="email"]:focus,
 			.wrapper.style2 select:focus,
 			.wrapper.style2 textarea:focus {
 				border-color: rgba(255, 255, 255, 0.5);
