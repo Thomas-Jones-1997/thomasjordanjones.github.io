@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas J Jones</h1>
 <h3 align="center">A passionate games development student looking to gain key knowledge and skills to drive myself.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thomas-jones-1997&label=Profile%20views&color=0e75b6&style=flat" alt="thomas-jones-1997" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomas-jones-1997" alt="thomas-jones-1997" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@t_j_jones_1997" target="blank"><img src="https://img.shields.io/twitter/follow/@t_j_jones_1997?logo=twitter&style=for-the-badge" alt="@t_j_jones_1997" /></a> </p>
-
 - 🔭 I’m currently working on **OpenGL Game**
 
 - 🌱 I’m currently learning **Computer Games Development**
@@ -19,7 +13,7 @@
 
 - 📄 Know about my experiences [https://thomas-jones-1997.github.io/](https://thomas-jones-1997.github.io/)
 
-- ⚡ Fun fact **I'm short and filled with energy ⚡**
+- ⚡ Fun fact **I'm particularly passionate about the Sims game on PC, I am the founder and developer of Cookie Sims. Cookie Sims is my own personal website hosting the creations I've made on the Sims with 3 key things... One - I don't use mods in game as they can slow the game down and may not work with future game updates, Two - no advertisements on site as they intend to slow things down, Three - no paid premium membership, my creations should be free as players already spend enough on additional content.  ⚡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,6 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas-jones-1997&show_icons=true&locale=en&layout=compact" alt="thomas-jones-1997" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-jones-1997&show_icons=true&locale=en" alt="thomas-jones-1997" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomas-jones-1997&" alt="thomas-jones-1997" /></p>
-
