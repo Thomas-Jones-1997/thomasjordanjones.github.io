@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thomas J Jones</h1>
-<h3 align="center">A passionate games development student looking to gain key knowledge and skills to drive myself.</h3>
+<h3 align="center">A passionate games development student looking to gain key knowledge and skills to drive myself. Highly passionate about The Sims video game developed by Maxis studios - EA</h3>
 
 - 🔭 I’m currently working on **OpenGL Game**
 
-- 🌱 I’m currently learning **Computer Games Development**
+- 🌱 I’m currently learning **Computer Games Development at Staffordshire University**
 
 - 👨‍💻 All of my projects are available at [Thomas-Jones-1997.github.io](Thomas-Jones-1997.github.io)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://thomas-jones-1997.github.io/](https://thomas-jones-1997.github.io/)
 
-- ⚡ Fun fact **I'm particularly passionate about the Sims game on PC, I am the founder and developer of Cookie Sims. Cookie Sims is my own personal website hosting the creations I've made on the Sims with 3 key things... One - I don't use mods in game as they can slow the game down and may not work with future game updates, Two - no advertisements on site as they intend to slow things down, Three - no paid premium membership, my creations should be free as players already spend enough on additional content.  ⚡**
+- ⚡ Fun fact **I'm the founder and developer of Cookie Sims, the idea is to showcase my own Sims builds online while enabling other fellow players to enjoy and download them. ⚡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
